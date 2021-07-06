@@ -63,3 +63,22 @@
 - Yo bebo, tu bebes, el bebe. = I drink, you drink, he drinks.
 
 <hr/>
+
+## Day 3 of 5
+
+### Basic Words:
+- 
+
+### Basic Sentences:
+- Yo soy una mujer = I am woman.
+- La Mujer = The Woman
+- El Hombre = The Man
+- El Nino = The Boy
+- La Nina = The Girl
+- Una Nina = A Girl
+- Una Mujer = A Woman
+- Un Hombre = A Man
+- Un Nino = A Boy
+- Yo soy un nino = I am a boy
+
+<hr/>
