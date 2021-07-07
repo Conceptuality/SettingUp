@@ -82,3 +82,19 @@
 - Yo soy un nino = I am a boy
 
 <hr/>
+
+
+## Day 4 of 5
+
+### Basic Words:
+- 
+
+### Basic Sentences:
+- Ella es una nina = She is a girl.
+- Tu erese una nina = You are a girl.
+- Juan come manzanas = Juan eats apples.
+- El come manzanas = he eats apples.
+- Tu eres un hombre = You are a man.
+- El es un hombre = He is a man.
+
+<hr/>
