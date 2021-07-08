@@ -292,3 +292,32 @@ Quote:
 - Wir sind Jungen und ihr seid Manner = We are boys and you are men.
 
 <hr/>
+
+## Day 5 of 5
+
+### Basic Words:
+- Willkommen = Welcome
+- Tschuss = Bye
+- Nein = No
+- Bitte = Please
+- Hallo = Hello
+- Ja = Yes
+- Guten = Good
+- Morgen = Morning
+- Tact = Afternoon
+- Abend = Eveing
+- Nacht = Night
+- Leider = Unforutnately
+- Danke = Thanks
+- Bis Bald = See you soon
+- Entschuldigung = Sorry
+- Alles Klar = All Clear
+
+### Basic Sentences:
+- Mir geht's gut = I am fine
+- Hallo, Guten Abend = Hello, Good Evening
+- Danke, Guten Nacht = Thanks, Good Night
+- Es tut mir leid = I am sorry
+- Mir geht's gut, danke = I am good, thank you
+
+<hr/>
