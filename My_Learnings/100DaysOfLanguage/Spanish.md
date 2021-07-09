@@ -83,7 +83,6 @@
 
 <hr/>
 
-
 ## Day 4 of 5
 
 ### Basic Words:
@@ -96,5 +95,26 @@
 - El come manzanas = he eats apples.
 - Tu eres un hombre = You are a man.
 - El es un hombre = He is a man.
+
+<hr/>
+
+## Day 5 of 5
+
+### Basic Words:
+- 
+
+### Basic Sentences:
+- Yo Como Pan = I eat bread
+- Tu Comes Pan? = Do you eat bread?
+- Yo Como Manzanas = I eat apples
+- Yo Bebo Leche = I drink milk
+- Yo Bebo Agua = I drink water
+- Tu Comes Manzanas? = Do you eat apples?
+- La Leche = The Milk
+- El Pan = The Bread
+- Tu Bebes Agua? = Do you drink water?
+- Yo Como, Tu Comes, El Come = I eat, you eat, he eats
+- El Hombre Bebe Agua = The man drink water
+- Juan Come Pan = Juan eats bread
 
 <hr/>
