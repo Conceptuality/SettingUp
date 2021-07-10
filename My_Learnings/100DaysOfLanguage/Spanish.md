@@ -118,3 +118,15 @@
 - Juan Come Pan = Juan eats bread
 
 <hr/>
+
+## Revision
+- Ellas es una nina = She is a girl
+- El pan = The bread
+- Tu eres una nina = you are a girl
+- Usted es una mujer = you are a woman
+- la manzana = the apple
+- la leche = the milk
+- Yo soy una mujer = I am a woman
+- El agua = the water
+- Yo soy un nino = I am a boy
+- La nina = the girl
