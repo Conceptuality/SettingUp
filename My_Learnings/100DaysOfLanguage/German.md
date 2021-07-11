@@ -321,3 +321,21 @@ Quote:
 - Mir geht's gut, danke = I am good, thank you
 
 <hr/>
+
+## Revision
+- Trinkt sie? = Is she drinking?
+- Sie ist eine Frau und er ist ein Mann = She is a woman and he is a man
+- Trinkt er? = Does he drink?
+- Ich bin ein Madchen und du bist eine Frau = I am a girl and you are a woman
+- Er ist ein Mann und sie ist eine Frau = He is a man and she is a woman
+- Es ist ein Kind = It is a kid/child
+- Brot und Wasser = Bread and Water
+- Brot und Milch = Bread and Milk
+- Ich bin ein Mann und sie ist eine Frau = I ma a man and she is a woman
+- er, sie, es = he, she, it
+- Du bist eine Frau und ich bin ein Mann = You are a woman and I am a man
+- Ich bin ein Junge und du bist ein Mann = I am a boy and you are a man
+- Es ist Wasser = It is water
+- Er ist ein Mann und ich bin ein Junge = He is a man and I am a boy
+
+<hr/>
