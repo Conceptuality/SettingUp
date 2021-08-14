@@ -322,7 +322,7 @@ Quote:
 
 <hr/>
 
-## Revision
+## Revision 1
 - Trinkt sie? = Is she drinking?
 - Sie ist eine Frau und er ist ein Mann = She is a woman and he is a man
 - Trinkt er? = Does he drink?
@@ -337,5 +337,22 @@ Quote:
 - Ich bin ein Junge und du bist ein Mann = I am a boy and you are a man
 - Es ist Wasser = It is water
 - Er ist ein Mann und ich bin ein Junge = He is a man and I am a boy
+
+<hr/>
+
+## Revision 2
+- Bitte! = Please!
+- Ihr Habt Wasser. = You have water.
+- are eating = esst
+- Der Junge liest eine Zeitung. = The boy reads a newspaper.
+- Danke, auf Wiedersehen! = Thanks, Goodbye!
+- Ja, genau! = Yes, exactly!
+- Ja, bis morgen! = Yes, see you tomorrow!
+- Auf Wiedersehen! = Goodbye!
+- Wir essen und sie trinken. = We are eating and they are drinking.
+- Ihr esst. = You are eating.
+- Das Madchen liest eine Zeitung. = The girl is reading a newspaper.
+- Genau! = Exactly!
+- Ihr habt Milch = You have milk.
 
 <hr/>
