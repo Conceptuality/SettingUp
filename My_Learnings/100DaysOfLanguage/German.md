@@ -356,3 +356,15 @@ Quote:
 - Ihr habt Milch = You have milk.
 
 <hr/>
+
+
+## Revision 3
+- Bis Spater = See You Later
+- Wie Geht's? = How are you?
+- Gern Geschehen = You are Welcome
+- Keine Ahnung = No Idea
+- Entschudigung = Sorry
+- In Ordnung = Alright
+- Tschuss = Bye
+
+<hr/>
