@@ -357,7 +357,6 @@ Quote:
 
 <hr/>
 
-
 ## Revision 3
 - Bis Spater = See You Later
 - Wie Geht's? = How are you?
@@ -366,5 +365,28 @@ Quote:
 - Entschudigung = Sorry
 - In Ordnung = Alright
 - Tschuss = Bye
+
+<hr/>
+
+## Revision 4
+- Ich bin Anna. = I am Anna.
+- Junge = Boy
+- Ich bin Hans. I am Hans.
+- Ein Mann. = A Man.
+- Eine Frau. = A Woman.
+- Ich bin ein Junge. = I am a boy.
+- Ich bin ein Mann = I am a man.
+- Ich bin eine Frau. = I am a woman.
+- Ein Kind. A Child.
+- Ich bin ein Kind. = I am a child.
+- Du bist ein Madchen. = You are a girl.
+- Ich bin ein Kind und du bist ein Mann. = I am a child and you are a man.
+- Brot und Wasser. = Bread and Water.
+- Es ist Duolingo. = It is Duolingo.
+- Er trinkt. = He drinks.
+- Ein Kind trinkt. = A kid drinks.
+- Sie ist ein Madchen. = She is a girl.
+- Trinkt er? = Does he drink?
+- Trinkt sie? = Is she drinking?
 
 <hr/>
