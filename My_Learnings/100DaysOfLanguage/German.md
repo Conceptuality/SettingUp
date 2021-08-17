@@ -390,3 +390,12 @@ Quote:
 - Trinkt sie? = Is she drinking?
 
 <hr/>
+
+## Revision 4
+- Du hast Milch und ich habe Wasser. = You have milk and I have water.
+- Sie essen den Apfel. = They are eating the apple.
+- Danke, ich trinke Milch. = Thanks, I am drinking milk.
+- Das Madchen leist die Zeitung = The girl is reading the newspaper.
+
+
+<hr/>
